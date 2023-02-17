@@ -13,7 +13,7 @@ with the following true" underlying polynomial noisy model
 
 $$p(x) = \mathrm{Uniform}(-1,1)$$
 $$p(y|x) = \mathrm{Normal}(\mu = f(x),\sigma = 0.2)$$
-$$f(x) = \sum_i p_i x^i$$,
+$$ f(x) = \sum_i p_i x^i $$
 
 with $p_0 = -0.7, p_1 = 2.2, p_2 = 0.5, p_3 = 1.0$
 
